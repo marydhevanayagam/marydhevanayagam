@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<div align="center">
+<div align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=r,vscode,python,bash,github)](https://skillicons.dev)
 

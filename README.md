@@ -11,6 +11,17 @@
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/shanuka-dhevanayagam)
 
 
+### Languages and Tools:
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=r,vscode,python,bash,github)](https://skillicons.dev)
+
+</div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marydhevanayagam&show_icons=true&locale=en&layout=compact" alt="marydhevanayagam" /></p>
+
+
 <!---
 marydhevanayagam/marydhevanayagam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

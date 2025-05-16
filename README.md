@@ -4,7 +4,7 @@
 
 - 🔬 My research interests include **Microbiology**, **Immunology**, and **Oncology**
 
-- 🌱 I’m currently learning **Bash Scripting**, **Python**
+- 🌱 I’m currently learning **NGS data analysis**, **Bash Scripting**, **Python**
 
 - 🛠️ I’m looking to collaborate on **Bioinformatics** projects
 

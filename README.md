@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Shanuka
+## Hi there 👋, I’m Shanuka
 
 🚀 I’m interested in exploring the frontiers of biology and data science
 

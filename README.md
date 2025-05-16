@@ -8,7 +8,7 @@
 
 - 🛠️ I’m looking to collaborate on **Bioinformatics** projects
 
-📫 Connect with me:  
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/shanuka-dhevanayagam)
 
 
 <!---

@@ -2,7 +2,7 @@
 
 🚀 I’m interested in exploring the frontiers of biology and data science
 
-- 🔬 My research interests include **Microbiology**,**Oncology** and **Immunology**
+- 🔬 My research interests include **Microbiology**, **Oncology** and **Immunology**
 
 - 🔭 I’m currently learning **NGS Data Analysis**, **Python**, **Bash Scripting**
 
